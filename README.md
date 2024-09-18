@@ -1,4 +1,9 @@
 ## Hi there 👋
+## 🌱 I’m currently learning ... Python at UWyo
+## 😄 Pronouns: ... She/her
+## ⚡ Fun fact: ... 2016 Smackdown vs Raw n64 Champion 
+## 💬 Ask me about ... Electronic Music
+
 
 <!--
 **lppv1304/lppv1304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
